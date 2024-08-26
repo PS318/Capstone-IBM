@@ -1,3 +1,3 @@
 # Capstone-IBM
 Capstone IBM Course
-In progress files
+Please navigate to the -Capstone.pdf file for grading.
